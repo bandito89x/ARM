@@ -1,2 +1,3 @@
 # ARM
-My ARM templates
+This repository is for my Microsoft Azure ARM templates
+
